@@ -2,6 +2,7 @@
 
 var name = "Anya"
 var height = "55"
+console.log(parseInt(height) + 1 )
 
 console.log("Name:")
 console.log(name)
